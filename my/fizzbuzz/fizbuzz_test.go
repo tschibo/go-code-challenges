@@ -1,6 +1,6 @@
 package fizzbuzz
 
-func ExampleFizzBuzz1() {
+func ExampleFizzBuzz() {
 	FizzBuzz(15)
 	// Output:
 	// 1
